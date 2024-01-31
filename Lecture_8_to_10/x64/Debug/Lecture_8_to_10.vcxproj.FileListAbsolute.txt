@@ -1,0 +1,2 @@
+D:\Programming\VC++\Lecture_8_to_10\x64\Debug\Lecture_8_to_10.exe
+D:\GitHub\VC_repos\Lecture_8_to_10\x64\Debug\Lecture_8_to_10.exe
